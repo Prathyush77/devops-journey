@@ -1,3 +1,5 @@
 # Devops Learning Notes - Prathyush
 # Lesson 9 - Log Files
 Commands: tail -f, grep, less, journalctl, cat, head
+# Lesson 9 - Log Files
+Commands : tail -f , less, grep , journalctl , head 
