@@ -3,3 +3,6 @@
 Commands: tail -f, grep, less, journalctl, cat, head
 # Lesson 9 - Log Files
 Commands : tail -f , less, grep , journalctl , head 
+# Lesson 10 - Networking
+IP types: loopback(127.0.0.1) private(172.x) public(122.177.241.107)
+Commands : ip addr , nslookup , dig, ss , traceroute , ssh-keygen , curl -I
