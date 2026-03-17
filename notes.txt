@@ -6,3 +6,6 @@ Commands : tail -f , less, grep , journalctl , head
 # Lesson 10 - Networking
 IP types: loopback(127.0.0.1) private(172.x) public(122.177.241.107)
 Commands : ip addr , nslookup , dig, ss , traceroute , ssh-keygen , curl -I
+#Lesson 11 - AWS EC2
+Launched EC2 t3.micro in ap-south-2 hyderabad 
+SSH , nginx installed, port 80 opened, website live!
