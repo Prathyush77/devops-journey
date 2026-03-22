@@ -9,3 +9,5 @@ Commands : ip addr , nslookup , dig, ss , traceroute , ssh-keygen , curl -I
 #Lesson 11 - AWS EC2
 Launched EC2 t3.micro in ap-south-2 hyderabad 
 SSH , nginx installed, port 80 opened, website live!
+# Lesson 12 - AWS s3
+Commands: aws s3 cp , sync , ls , mb , rm. Always use --exclude .git/*
