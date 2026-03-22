@@ -18,7 +18,7 @@ My complete DevOps learning journey from scratch — built while studying
 - [x] Package Management & Logs
 - [x] Networking Fundamentals
 - [x] AWS EC2 — deployed live server
-- [ ] AWS S3, IAM, VPC
+- [x] AWS S3, IAM, VPC
 - [ ] Docker
 - [ ] Kubernetes
 - [ ] CI/CD
